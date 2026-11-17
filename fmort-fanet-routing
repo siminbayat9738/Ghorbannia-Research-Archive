@@ -1,1 +1,44 @@
 The Meta-Heuristic routing method by integrating index parameters to optimize energy consumption and real execution time using FANET        
+# FMORT: The Meta-Heuristic routing method by integrating index parameters to optimize energy consumption and real execution time using FANET
+
+## Publication information
+
+- **Journal:** Computer Networks
+- **Publisher:** Elsevier
+- **Volume:** 255
+- **Date:** December 2024
+- **Article number:** 110869
+- **DOI:** [10.1016/j.comnet.2024.110869](https://doi.org/10.1016/j.comnet.2024.110869)
+- **Publisher page:** [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1389128624007011)
+
+## Authors
+
+- Arash Ghorbannia Delavar
+- Zahra Jormand
+
+## Abstract
+
+Decreasing energy consumption in Unmanned Aerial Vehicles (UAVs) while simultaneously enhancing their reliability and processing capabilities is considered a fundamental challenge. The routing mechanisms employed in Flying Ad Hoc Networks (FANETs) are more complex compared to those in Mobile Ad Hoc Networks (MANETs) and Vehicular Ad Hoc Networks (VANETs), a challenge addressed by the FMORT method. To tackle these complex routing challenges, clustering techniques that utilize hybrid Meta-heuristic algorithms can be applied. Data analysis within the FMORT framework identified factors influencing service integration, leading to a reduction in redundant request transmissions and overall redundancy in the proposed method. The identification of food sources in the hybrid Meta-heuristic algorithm of the FMORT method is achieved through the integration of the Sparrow and Dragonfly algorithms. These algorithms work simultaneously to increase energy efficiency and increase network lifetime. This strategy optimizes information exchange by selecting an intelligent threshold detector and categorizing inputs, thereby minimizing node mobility. As a result, it improves performance metrics and decreases delivery costs, energy consumption, and delays. In the proposed method, a balanced performance is achieved by comparing existing methods in terms of transmission delay, Packet Delivery Ratio (PDR), throughput, and energy consumption. Simulation results show that the FMORT approach provides effective and stable outcomes in terms of reliability, decreased delays, and improved packet delivery rates. The FMORT framework includes principles for neighbor selection, determining suitable cluster heads, and scoring based on the average Euclidean distance. Additionally, it manages topology access, ensures proper distribution, guarantees data connectivity, and accurately categorizes inputs. By optimizing the sensitivity rate, this method minimizes the average delays and meekly values input data through effective load balancing. Key parameters considered for real-time optimization of overall performance include the number of cluster heads during re-clustering, the ratio of request-to-acknowledgment packet transmission, node and network lifetime, end-to-end delay, and energy consumption. Ultimately, the simulation results show that compared to the MWCRSF algorithm, the average optimization of index parameters, 0.73% decrease in energy consumption, 2.23% increase in network lifetime, 1.35% increase in re-cluster construction time, and 0.11% increase in re-cluster lifetime has increased.
+
+## Keywords
+
+- Energy consumption
+- Execution time
+- FANET
+- Distributed routing
+- Re-clustering
+- Neighborhood principle
+- FMORT
+
+## Citation
+```bibtex
+@article{ghorbannia2024fmort,
+  title   = {FMORT: The Meta-Heuristic routing method by integrating index parameters to optimize energy consumption and real execution time using FANET},
+  author  = {Ghorbannia Delavar, Arash and Jormand, Zahra},
+  journal = {Computer Networks},
+  volume  = {255},
+  pages   = {110869},
+  year    = {2024},
+  doi     = {10.1016/j.comnet.2024.110869},
+  publisher = {Elsevier}
+}
